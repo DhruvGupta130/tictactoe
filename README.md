@@ -1,5 +1,3 @@
-Sure! Here’s the updated README without the license section and with additional content to enhance it:
-
 # 🎮 Tic Tac Toe
 
 Welcome to the **Tic Tac Toe** game! This classic game lets you challenge a friend to see who can get three in a row first. It's a fun way to test your strategy and have a good time! ✨
